@@ -1,2 +1,2 @@
-# day dreaming
+# Website
 My first Github website
